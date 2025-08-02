@@ -1,3 +1,5 @@
+package com.firstProject;
+
 import com.firstProject.InventoryOperations;
 import com.firstProject.Product;
 
